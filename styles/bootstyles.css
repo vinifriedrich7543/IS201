@@ -1,0 +1,53 @@
+.tableau {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #575757;
+    font-weight: bold
+}
+
+.links {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.tabtitle {
+    text-align: center;
+}
+
+.tabtext {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+    font-weight:lighter
+}
+
+.tabbox1 {
+  width: 48%;
+  border: 5px solid gray; 
+  float: left;
+}
+
+.tabbox2 {
+    width: 48%;
+    border: 5px solid gray;
+    float: right;  
+}
+
+.footer {
+  background-color: white;
+  padding:45px 0 20px;
+  font: size 20px;
+  line-height:24px;
+  color:#737373;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.vini {
+    color: lightgrey;
+}
